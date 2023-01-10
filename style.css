@@ -137,7 +137,7 @@ better would be to figure out how to make this collapse without any media querie
 .type__boxdeets {
 	font-size: 2em;
 }
-@media (min-width: 300px) {
+@media (min-width: 200px) {
 	.angle {
 		transform: rotate(0);
 	}
