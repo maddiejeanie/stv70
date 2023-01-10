@@ -187,7 +187,7 @@ better would be to figure out how to make this collapse without any media querie
 	
 }
 
-@media (min-width: 600px) {
+@media (min-width: 800px) {
 		.angle {
 		transform: rotate(-7deg);
 	}
@@ -231,7 +231,7 @@ better would be to figure out how to make this collapse without any media querie
 	}
 }
 
-@media (min-width: 800px) {
+@media (min-width: 1000px) {
 	.img__kandinsky {
 	grid-column: 1;
 	grid-row: 1 / 3;
