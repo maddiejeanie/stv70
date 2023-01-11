@@ -118,7 +118,7 @@ better would be to figure out how to make this collapse without any media querie
 }
 
 .block__boxdeets p {
-	font-size: 1em;
+	font-size: 1.3em;
 	padding: 3px;
 	margin: 0;
 }
@@ -149,7 +149,7 @@ better would be to figure out how to make this collapse without any media querie
 		grid-column: 1 / 6;
 		grid-row: 1 / 3;
 		min-height: 250px;
-		margin-bottom: 20px;
+		margin-bottom: 40px;
 		}
 	
 	.block__address {
