@@ -94,7 +94,7 @@ better would be to figure out how to make this collapse without any media querie
 	color: var(--red);
 	text-transform: uppercase;
 	font-size: 1.5em;
-	text-align: right;
+	text-align: left;
 	margin: 0;
 }
 
@@ -213,8 +213,8 @@ better would be to figure out how to make this collapse without any media querie
 	}
 	
 	.type__eyebrow {
-		grid-column: 4 / 6;
-		grid-row: 3 / 4;
+		grid-column: 3 / 6;
+		grid-row: 3 / 5;
 	}
 	
 	.block__border {
