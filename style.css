@@ -19,7 +19,7 @@ a {
 .angle {
 	transform: rotate(-3deg);
 /* 	max-width: calc(100vw - 15vmax); */
-	max-height: 100vh;
+	height: 100%;
 	display: grid;
 	grid-template-columns: 3fr 3fr 1fr 1fr 1fr 1fr;
 	grid-gap: 1em;
