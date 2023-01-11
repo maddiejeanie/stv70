@@ -139,17 +139,17 @@ better would be to figure out how to make this collapse without any media querie
 }
 @media (min-width: 200px) {
 	.angle {
-		transform: rotate(0);
+		transform: rotate(-2deg);
 	}
 	
 	.img__kandinsky {
 		max-width: 75%;
 		border-left: 3em solid var(--red);
-		transform: rotate(-7deg);
+		transform: rotate(-6deg);
 		grid-column: 1 / 6;
 		grid-row: 1 / 3;
 		min-height: 250px;
-		width: 75%;
+		margina-bottom: 10px;
 		}
 	
 	.block__address {
@@ -215,6 +215,7 @@ better would be to figure out how to make this collapse without any media querie
 	.type__eyebrow {
 		grid-column: 3 / 6;
 		grid-row: 3 / 5;
+		
 	}
 	
 	.block__border {
@@ -245,6 +246,7 @@ better would be to figure out how to make this collapse without any media querie
 	
 	.type__eyebrow {
 		grid-column: 2 / 6;
+		
 	}
 	
 	.block__address {
